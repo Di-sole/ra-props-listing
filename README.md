@@ -1,3 +1,8 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vp04yxhqogqn2v9a?svg=true)](https://ci.appveyor.com/project/Di-sole/ra-props-listing)
+# Список предложений
+
+[GitHub Pages](https://di-sole.github.io/ra-props-listing/) 
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
