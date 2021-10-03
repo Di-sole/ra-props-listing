@@ -1,5 +1,6 @@
 {
   "name": "listing",
+	"homepage": "https://di-sole.github.io/ra-props-listing",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
